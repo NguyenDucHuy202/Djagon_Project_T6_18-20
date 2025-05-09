@@ -7,7 +7,7 @@ while chon != 6:
     print("3. Kiểm tra số chẵn hay lẻ")
     print("4. Tính tổng từ 1 đến n")
     print("5. Tính giai thừa của 1 số")
-    print("6. Thoát chương trình")
+   
     chon = int(input("Nhập lựa chọn của bạn (1-6): "))
 
     if chon == 1:
